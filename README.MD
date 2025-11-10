@@ -2,6 +2,7 @@
 
 A simple and fun **terminal-based game in C** where you try to guess a random number between 0 and 10.  
 Get it right and you’ll see a fun ASCII “You Won!” message. Guess wrong, and you’ll get hints to help you!
+<img src="preview.png"></img>
 
 ## Features
 
